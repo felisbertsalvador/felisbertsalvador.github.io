@@ -1,0 +1,27 @@
+html {
+    margin: 100px;
+    background-color: white;
+}
+
+body {
+    width: 50%;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+
+figcaption {
+    background-color: #ddd;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+}
